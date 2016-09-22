@@ -1,2 +1,2 @@
-# asyncForEach
-test for mail.ru group
+# Тестовое задание Mail.Ru Group
+## Задание №1 ```asyncForEach()```
