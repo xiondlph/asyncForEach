@@ -1,0 +1,25 @@
+{
+  "name": "asyncforeach",
+  "version": "1.0.0",
+  "description": "task form Mail.Ru groupe",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiondlph/asyncForEach.git"
+  },
+  "author": "Shukhrat",
+  "bugs": {
+    "url": "https://github.com/xiondlph/asyncForEach/issues"
+  },
+  "homepage": "https://github.com/xiondlph/asyncForEach#readme"
+}

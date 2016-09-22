@@ -1,4 +1,4 @@
-function asyncForEach(array, cb) {
+exports.asyncForEach = function (array, cb) {
     return new Promise(function(resolve, reject) {
         function next(i) {
                 if (i >= array.length) {
