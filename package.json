@@ -1,7 +1,7 @@
 {
-  "name": "asyncforeach",
+  "name": "test.asyncForEach",
   "version": "1.0.0",
-  "description": "task form Mail.Ru groupe",
+  "description": "Test asyncForEach function form Mail.Ru Groupe task",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -15,11 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xiondlph/asyncForEach.git"
+    "url": "git+https://github.com/xiondlph/test.asyncForEach.git"
   },
-  "author": "Shukhrat",
-  "bugs": {
-    "url": "https://github.com/xiondlph/asyncForEach/issues"
-  },
-  "homepage": "https://github.com/xiondlph/asyncForEach#readme"
+  "author": "Shukhrat <shukhrat@ismax.ru>"
 }
